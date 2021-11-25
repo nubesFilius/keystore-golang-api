@@ -2,9 +2,10 @@ package main
 
 import (
 	"io/ioutil"
-	"keystore-golang-api/api"
 	"log"
 	"net/http"
+
+	"github.com/nubesFilius/keystore-golang-api/api"
 )
 
 func main() {

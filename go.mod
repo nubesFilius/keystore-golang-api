@@ -1,4 +1,4 @@
-module keystore-golang-api
+module github.com/nubesFilius/keystore-golang-api
 
 go 1.17
 
